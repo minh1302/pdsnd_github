@@ -1,17 +1,15 @@
->**Note**: Please **fork** the current Udacity repository so that you will have a **remote** repository in **your** Github account. Clone the remote repository to your local machine. Later, as a part of the project "Post your Work on Github", you will push your proposed changes to the remote repository in your Github account.
-
 ### Date created
-Include the date you created this project and README file.
+Dec.28 2022
 
 ### Project Title
-Replace the Project Title
+# Post your Work on GitHub
 
 ### Description
-Describe what your project is about and what it does
+In this project, you will use Git to simulate a realistic workflow for refactoring your previous Project 2.
 
 ### Files used
-Include the files used
+1. The following file contains necessary commands used to do tasks:
+   * Git Commands Documentation.pdf	
 
 ### Credits
-It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
-
+* [Git documentation is very usefull.](https://git-scm.com/doc)
