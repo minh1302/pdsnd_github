@@ -13,5 +13,3 @@ In this project, you will use Git to simulate a realistic workflow for refactori
 
 ### Credits
 * [Git documentation is very usefull.](https://git-scm.com/doc)
-
-change 1
